@@ -1,0 +1,41 @@
+header{
+	position: fixed;
+	display: inline-block;
+	top: 0;
+	padding: 20px;
+	width: 100%;
+	height: 50px;
+	z-index: 999;
+}
+
+.logo {
+	font-family:'Roboto', sans-serif;
+	font-size: 13px;
+	vertical-align: middle;
+	color: #FA6980;
+	margin-right: 92px;
+
+}
+
+.nav-header {
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Roboto', sans-serif;
+	font-size: 11px;
+	
+}
+
+li {
+	display: inline-block;
+	margin-right: 22px;
+}
+
+.li-a {
+	color: gray;
+	font-saiz: 11px;
+}
+
+.img-li{
+	display: inline-block;
+	vertical-align: middle;
+}
