@@ -3,7 +3,7 @@ header{
 	display: inline-block;
 	top: 0;
 	padding: 20px;
-	width: 1440px;
+	width: 100%;
 	height: 50px;
 	background-color: white;
 	z-index: 999;
@@ -26,7 +26,7 @@ header{
 	
 }
 
-li {
+li{
 	display: inline-block;
 	margin-right: 22px;
 }
@@ -140,4 +140,35 @@ li {
 
 .img-block{
 	margin-bottom: 100px;
+}
+
+/*fppter*/
+
+footer{
+	background-color: #707070;
+	width: 100%;
+	height: 200px;
+}
+
+.h3{
+	display: inline-block;
+	margin-top: 60px;
+	margin-right: 90px;
+	color: white;
+	font-size: 13px;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+ol{
+	color: #CBD0D3;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: bold;
+}
+.ul-a{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 60px;
+	margin-right: 70px;
 }
