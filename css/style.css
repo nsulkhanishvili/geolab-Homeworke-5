@@ -142,7 +142,7 @@ li{
 	margin-bottom: 100px;
 }
 
-/*fppter*/
+/*footer*/
 
 footer{
 	background-color: #707070;
@@ -171,4 +171,17 @@ ol{
 	vertical-align: top;
 	margin-top: 60px;
 	margin-right: 70px;
+}
+
+.div-web{
+	display: inline-block;
+	margin-top: 60px;
+	vertical-align: top;
+	margin-left: 100px;
+
+
+}
+.web{
+	display: inline-block;
+	margin-right: 30px;
 }
