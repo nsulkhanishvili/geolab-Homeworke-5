@@ -26,9 +26,10 @@ header{
 	
 }
 
-li{
+.li-header{
 	display: inline-block;
 	margin-right: 22px;
+
 }
 
 .li-a {
@@ -160,13 +161,13 @@ footer{
 	vertical-align: top;
 }
 
-ol{
+.li-footer{
 	color: #CBD0D3;
 	font-size: 13px;
 	line-height: 20px;
 	font-weight: bold;
 }
-.ul-a{
+.ol-a{
 	display: inline-block;
 	vertical-align: top;
 	margin-top: 60px;
